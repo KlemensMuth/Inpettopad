@@ -21,13 +21,13 @@ The lower Case <br>
 
 ## Quick picture of the Case:
 
-![Screenshot of Case](assets/Case.png)
+![Screenshot of Case](Assets/Case.png)
 
 # PCB and Schematic
 
 ## Heres my PCB and Shematic, which were both made in KiCad.
-![Screenshot of PCB](assets/Schematic.png)
-![Screenshot of Schematic](assets/PCB.png) <br>
+![Screenshot of PCB](Assets/Schematic.png)
+![Screenshot of Schematic](Assets/PCB.png) <br>
 *I used "MX_PUSH" from KiCAd for the keyswitch footprints.*
 
 # Firware
